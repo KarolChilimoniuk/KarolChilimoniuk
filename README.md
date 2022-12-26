@@ -44,6 +44,7 @@ My name is Karol :boy: I am a programming enthusiast focused on React library, N
 | Render.com                    |
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolChilimoniuk&theme=tokyonight)
+![Snake animation](https://github.com/KarolChilimoniuk/KarolChilimoniuk/blob/output/github-contribution-grid-snake.svg)
 
 ***
 <h3 align="center" >More about me</h3>
