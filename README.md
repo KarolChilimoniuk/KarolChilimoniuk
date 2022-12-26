@@ -47,7 +47,7 @@ My name is Karol :boy: I am a programming enthusiast focused on React library, N
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolChilimoniuk&theme=tokyonight)
 
 ***
-<h3 align="center" >More about me</h3>
+<h3 align="center" > 👉: More about me  👈:</h3>
 
 - 🔭 I’m currently developing new full-stack app - "socialMedia wannabe" app - [Repo](https://github.com/KarolChilimoniuk/social-app)
 - 🌱 I’m currently focused on learning - React, Typescript and Node
